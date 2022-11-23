@@ -1,7 +1,6 @@
 # Trabalho-Ciencia-de-Dados
 
-Rafael Gomes Romig
-Samuel Santana Diel
+Rafael Gomes Romig / Samuel Santana Diel
 
 *Link Colab*
 
